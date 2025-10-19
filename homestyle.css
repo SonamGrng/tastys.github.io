@@ -1,0 +1,93 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(85, 107, 47);
+}
+
+ul li {
+  float:left;
+  font-size:20px;
+}
+
+ul li a {
+  display: block;
+  color: rgb(255,248,220);
+  text-align: center;
+  padding: 18px 20px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #ffffff44;
+}
+/*#top{ 
+  background-image: url("https://images.pexels.com/photos/1603901/pexels-photo-1603901.jpeg?cs=srgb&dl=pexels-rajesh-tp-749235-1603901.jpg&fm=jpg");
+  background-size:cover;
+  height: 600px;
+  width:100%;
+  background-repeat:no-repeat;
+  background-position:center;
+  margin-bottom:0;85, 107, 47
+}  */
+#logo{
+  margin-top:250px;
+  color:rgb(255,248,220);
+  text-align:left;
+  font-size:10em;
+}
+
+
+
+body{
+  margin:0;
+  padding:0;
+  background-image: url("https://images.pexels.com/photos/1603901/pexels-photo-1603901.jpeg?cs=srgb&dl=pexels-rajesh-tp-749235-1603901.jpg&fm=jpg");
+  background-size:cover;
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  margin-bottom:0;
+  height:100vh;
+  width:100%;
+}
+
+/*#about{ 
+  height:100vh;
+  width:100%;
+  background-color:rgb(85,107,47);
+  margin-top:0;
+  padding-top:50px;
+  padding-bottom:50px;
+}
+#history{
+  margin-top:0;
+  background-color:gray;
+}
+  <section>
+                <div id = "about">
+                <!--<h2 id = "about_heading">History</h2>-->
+                    <p id = "history">Tasty’s 
+                        began in the early 1980s when two friends opened 
+                        a small sandwich shop with a simple goal — to serve fresh, 
+                        homemade sandwiches in a friendly, welcoming space. Over the years, 
+                        it became a local favorite known for its cozy booths, warm service, and 
+                        the smell of toasted bread filling the air. Today, Tasty’s still holds 
+                        that same charm with an updated menu featuring both classic and modern sandwiches, a 
+                        relaxed atmosphere, and a loyal community of regulars who keep coming back for 
+                        good food and good company.
+                    </p>
+                </div>
+                <div id = "gallery">
+                    <img src = "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/85/01/6e/what-a-diner-should-look.jpg?w=900&h=500&s=1" div = "slideshow">
+                </div>
+            </section>
+            
+
+
+
+*/
+
+
+
+
